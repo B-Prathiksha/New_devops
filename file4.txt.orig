@@ -1,0 +1,9 @@
+new_branch
+<<<<<<< HEAD
+file 4
+=======
+file four
+>>>>>>> new_branch
+hi
+hello
+world
